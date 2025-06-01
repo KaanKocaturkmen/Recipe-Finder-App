@@ -1,3 +1,5 @@
+# Project Page: https://kaankocaturkmen.github.io/Recipe-Finder-App/
+
 # 🍽️ Recipe Finder App
 
 A simple and responsive Recipe Finder web application built with **JavaScript**, **CSS**, **HTML5**, and **Bootstrap**. Users can enter the name of any dish and instantly access detailed cooking instructions, ingredients, and preparation time.
