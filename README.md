@@ -1,4 +1,4 @@
-# Project Page: https://kaankocaturkmen.github.io/Recipe-Finder-App/
+Project Page: https://kaankocaturkmen.github.io/Recipe-Finder-App/
 
 # 🍽️ Recipe Finder App
 
